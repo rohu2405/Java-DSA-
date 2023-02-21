@@ -1,6 +1,6 @@
-package com.java.basics1;
+package com.java.basics;
 
-public class Practise_Problems {
+public class Practise_Problems_1 {
     public static void main(String[] args) {
         // Question 1
         /*
